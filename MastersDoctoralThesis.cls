@@ -368,15 +368,15 @@ KOMA-script documentation for details.}]{fancyhdr}
 			\bigskip
 
 			%{\normalsize \facname \par}% Faculty name
-			{\normalsize \deptname \par}% Department name
+			%{\normalsize \deptname \par}% Department name
 			\bigskip
-			{\normalsize \degreename\par}% Degree name
+			%{\normalsize \degreename\par}% Degree name
 			\bigskip
 			{\normalsize\bfseries \@title \par}% Thesis title
 			\medskip
-			{\normalsize \byname{} \authorname \par}% Author name
+			%{\normalsize \byname{} \authorname \par}% Author name
 			\bigskip
-			{\huge\MakeUppercase{\abstractname} \par}
+			%{\huge\MakeUppercase{\abstractname} \par}
 			\bigskip
 		\end{center}
 	}
